@@ -7,5 +7,8 @@ const authenticationRouter = Router();
 
 authenticationRouter.post("/sign-in", validateBody(signInSchema), singInPost);
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 37c1102d7f1349f679ba1046f56e480624bbbc6b
 export { authenticationRouter };

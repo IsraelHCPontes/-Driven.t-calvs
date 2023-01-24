@@ -65,7 +65,11 @@
     "prisma": "^3.14.0",
     "supertest": "^6.2.3",
     "ts-jest": "^26.5.5",
+<<<<<<< HEAD
     "ts-node": "^10.9.1",
+=======
+    "ts-node": "^10.7.0",
+>>>>>>> 37c1102d7f1349f679ba1046f56e480624bbbc6b
     "tsconfig-paths": "3.9.0",
     "ttypescript": "^1.5.13",
     "typescript": "^4.2.4",
@@ -88,4 +92,8 @@
     "jsonwebtoken": "^8.5.1",
     "reflect-metadata": "^0.1.13"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 37c1102d7f1349f679ba1046f56e480624bbbc6b
